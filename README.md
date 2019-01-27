@@ -1,2 +1,6 @@
-# CLSL-TcpIp-Client
-Software (Library) | Client for TCP/IP Suite Protocols and Operations. 
+# CLSL-NetworkingClientKit
+## Software (Library) | Client API for TCP/IP Suite Protocols and Operations. 
+
+### Project Structure:
+----------------------
+
